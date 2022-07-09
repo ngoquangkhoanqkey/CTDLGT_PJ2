@@ -1,0 +1,14 @@
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.exe
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.deps.json
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.runtimeconfig.json
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.runtimeconfig.dev.json
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.dll
+E:\File\Project_De2\Project_De2\bin\Debug\netcoreapp3.1\Project_De2.pdb
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.csproj.AssemblyReference.cache
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.GeneratedMSBuildEditorConfig.editorconfig
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.AssemblyInfoInputs.cache
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.AssemblyInfo.cs
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.csproj.CoreCompileInputs.cache
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.dll
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.pdb
+E:\File\Project_De2\Project_De2\obj\Debug\netcoreapp3.1\Project_De2.genruntimeconfig.cache
